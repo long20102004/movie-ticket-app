@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Movie Tickets</string>
+    <string name="poster_content_desc">Poster phim</string>
+    <string name="book_tickets">Đặt vé</string>
+    <string name="movies_title">Phim đang chiếu</string>
+    <string name="movies_subtitle">Chọn phim để xem suất &amp; đặt ghế</string>
+    <string name="movies_empty">Chưa có phim. Kiểm tra Firestore hoặc đợi seed dữ liệu mẫu.</string>
+    <string name="pick_seats">Chọn ghế</string>
+    <string name="seat_hint">Chạm ghế trống để chọn (vàng), chạm lại để bỏ. Ghế xám đã có người đặt.</string>
+    <string name="screen_label">MÀN HÌNH</string>
+    <string name="legend_free">Trống</string>
+    <string name="legend_selected">Đang chọn</string>
+    <string name="legend_taken">Đã bán</string>
+    <string name="buyer_name">Họ tên</string>
+    <string name="buyer_phone">Số điện thoại</string>
+    <string name="confirm_booking">Xác nhận đặt vé</string>
+    <string name="selected_seats_prefix">Đã chọn: %1$s</string>
+    <string name="none_selected">Chưa chọn ghế</string>
+    <string name="booking_header_fmt">Đặt vé • %1$s</string>
+    <string name="total_placeholder">Tổng: —</string>
+    <string name="pick_at_least_one_seat">Chọn ít nhất một ghế</string>
+    <string name="not_enough_seats_quota">Số ghế trống không đủ</string>
+    <string name="total_amount_fmt">Tổng: %1$s đ</string>
+    <string name="showtimes_empty">Chưa có suất chiếu cho phim này.</string>
+    <string name="notif_channel_showtime_name">Nhắc giờ chiếu</string>
+    <string name="notif_channel_showtime_desc">Thông báo trên máy khi sắp tới suất đã đặt</string>
+    <string name="reminder_title_default">Sắp tới giờ chiếu</string>
+    <string name="reminder_body_default">Suất phim của bạn sắp bắt đầu.</string>
+    <string name="reminder_body_fmt">%1$s — nhắc trước 30 phút.</string>
+</resources>

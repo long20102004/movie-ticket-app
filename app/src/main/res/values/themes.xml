@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/cinema_accent</item>
+        <item name="colorOnPrimary">@color/cinema_on_accent</item>
+        <item name="colorSurface">@color/cinema_surface</item>
+        <item name="android:colorBackground">@color/cinema_bg</item>
+        <item name="android:statusBarColor">@color/cinema_bg</item>
+        <item name="android:navigationBarColor">@color/cinema_bg</item>
+    </style>
+</resources>
